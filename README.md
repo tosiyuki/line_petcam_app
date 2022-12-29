@@ -22,3 +22,6 @@ You finish creating token, please copy token to "src/config/setting.json".
 You start script, connect localhost::8501 and push start button.
 
 ![](images/png1.PNG "")
+
+# License
+The source code is licensed Apache License 2.0.
